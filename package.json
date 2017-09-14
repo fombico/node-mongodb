@@ -3,13 +3,8 @@
   "version": "1.0.0",
   "description": "",
   "main": "script.js",
-  "dependencies" : {
-  	"express": "*",
-  	"morgan": "*",
-  	"body-parser": "*",
-  	"ejs": "*",
-  	"mongo": "*",
-    "mongoose" : "*"
+  "dependencies": {
+    "mongo": "*"
   },
   "author": "",
   "license": "ISC"
